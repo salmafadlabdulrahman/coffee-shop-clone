@@ -11,6 +11,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
+        <link rel="icon" type="image/svg+xml" href="./cilantro-logo.png" />
         <title>Cilantro</title>
       </Head>
 
