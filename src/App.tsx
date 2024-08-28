@@ -1,10 +1,11 @@
-import NavBr from "./components/NavBr"
+//import NavBr from "./components/NavBr"
 
 function App() {
 
   return (
     <>
-    <NavBr />  
+    
+     
     </>
   )
 }
