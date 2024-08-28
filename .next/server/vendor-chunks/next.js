@@ -21,6 +21,16 @@ eval("/**\n * Hoists a name from a module or promised module.\n *\n * @param mod
 
 /***/ }),
 
+/***/ "./node_modules/next/font/google/target.css?{\"path\":\"pages\\\\_app.tsx\",\"import\":\"Montserrat\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"montserrat\"}":
+/*!*******************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/font/google/target.css?{"path":"pages\\_app.tsx","import":"Montserrat","arguments":[{"subsets":["latin"]}],"variableName":"montserrat"} ***!
+  \*******************************************************************************************************************************************************************/
+/***/ ((module) => {
+
+eval("// Exports\nmodule.exports = {\n\t\"style\": {\"fontFamily\":\"'__Montserrat_b1da2a', '__Montserrat_Fallback_b1da2a'\",\"fontStyle\":\"normal\"},\n\t\"className\": \"__className_b1da2a\"\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9ub2RlX21vZHVsZXMvbmV4dC9mb250L2dvb2dsZS90YXJnZXQuY3NzP3tcInBhdGhcIjpcInBhZ2VzXFxcXF9hcHAudHN4XCIsXCJpbXBvcnRcIjpcIk1vbnRzZXJyYXRcIixcImFyZ3VtZW50c1wiOlt7XCJzdWJzZXRzXCI6W1wibGF0aW5cIl19XSxcInZhcmlhYmxlTmFtZVwiOlwibW9udHNlcnJhdFwifSIsIm1hcHBpbmdzIjoiQUFBQTtBQUNBO0FBQ0EsV0FBVywwRkFBMEY7QUFDckc7QUFDQSIsInNvdXJjZXMiOlsid2VicGFjazovL2NvZmZlZS1zaG9wLWNsb25lLy4vbm9kZV9tb2R1bGVzL25leHQvZm9udC9nb29nbGUvdGFyZ2V0LmNzcz9hNjM3Il0sInNvdXJjZXNDb250ZW50IjpbIi8vIEV4cG9ydHNcbm1vZHVsZS5leHBvcnRzID0ge1xuXHRcInN0eWxlXCI6IHtcImZvbnRGYW1pbHlcIjpcIidfX01vbnRzZXJyYXRfYjFkYTJhJywgJ19fTW9udHNlcnJhdF9GYWxsYmFja19iMWRhMmEnXCIsXCJmb250U3R5bGVcIjpcIm5vcm1hbFwifSxcblx0XCJjbGFzc05hbWVcIjogXCJfX2NsYXNzTmFtZV9iMWRhMmFcIlxufTtcbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./node_modules/next/font/google/target.css?{\"path\":\"pages\\\\_app.tsx\",\"import\":\"Montserrat\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"montserrat\"}\n");
+
+/***/ }),
+
 /***/ "./node_modules/next/dist/pages/_document.js":
 /*!***************************************************!*\
   !*** ./node_modules/next/dist/pages/_document.js ***!

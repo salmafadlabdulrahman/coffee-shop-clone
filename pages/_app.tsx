@@ -1,6 +1,11 @@
 import type { AppProps } from "next/app";
 import "../src/styles/index.css";
 import Head from "next/head";
+import { Montserrat } from "next/font/google";
+
+const montserrat = Montserrat({
+  subsets: ["latin"],
+});
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
@@ -8,7 +13,10 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Head>
         <title>Cilantro</title>
       </Head>
-      <Component {...pageProps} />
+
+      <main className={montserrat.className}>
+        <Component {...pageProps} />
+      </main>
     </>
   );
 }
