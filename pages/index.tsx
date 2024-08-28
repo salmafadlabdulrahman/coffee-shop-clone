@@ -1,11 +1,9 @@
-import React from 'react';
-import NavBar from '../src/components/NavBar';
+import React from "react";
 
 export default function Home() {
   return (
     <div>
-      <h1 className='text-blue-700'>Welcome to My Coffee Shop</h1>
-      <NavBar />
+      <h1>Home Page</h1>
     </div>
   );
 }
