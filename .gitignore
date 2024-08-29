@@ -25,3 +25,27 @@ dist-ssr
 
 .next/
 node_modules/
+out/
+.vercel/
+
+# Ignore Next.js cache
+.next/cache/
+
+# Ignore build artifacts
+dist/
+build/
+
+
+# Ignore temporary files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore system files
+.DS_Store
